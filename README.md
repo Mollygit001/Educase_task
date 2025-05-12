@@ -2,7 +2,7 @@
 
 A comprehensive task management system designed for educational institutions to streamline assignment tracking, deadline management, and collaborative workflows.
 
-![Project Preview](https://via.placeholder.com/800x400.png?text=Educase+Task+Management+System) <!-- Replace with actual screenshot -->
+![Project Preview](./public/scr_sht1.png) <!-- Replace with actual screenshot -->
 
 ## Table of Contents
 - [Features](#features)
